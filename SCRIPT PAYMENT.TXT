@@ -1,0 +1,8 @@
+Day 24: Stripe Payments — Humne kya seekha?
+1. Stripe Integration: Website mein online payment system connect karna.
+2. Checkout Session: Customer ke liye secure payment page create karna.
+3. Environment Variables: .env mein secret API key safely store karna.
+4. Payment Verification: Check karna ke payment successfully complete hui hai ya nahi.
+5. Success & Cancel Flow: Payment successful hone ya cancel hone par sahi page show karna.
+6. Testing: Stripe test card se payment ko safely test karna.
+Main purpose: Apni web application mein secure online payment system implement karna, bina real money charge kiye test mode mein.
